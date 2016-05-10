@@ -1,0 +1,20 @@
+[ { "name":"Trivia Contest", "time":"9:00 AM", "location":"HS Library"}
+, { "name":"Math Competition", "time":"10:30 AM", "location":"HS Commons"}
+, { "name":"Engineering Competition", "time":"9:30 AM", "location":"HS Commons"}
+, { "name":"Art Contest", "time":"11:30 AM", "location":"HS Commons"}
+, { "name":"Relay Races", "time":"1:15 PM", "location":"HS Field"}
+, { "name":"Obstacle Course", "time":"11:30 AM", "location":"HS Field"}
+, { "name":"Tug-of-War", "time":"10:30 AM", "location":"HS Field"}
+, { "name":"PowderPuff Football", "time":"2:00 AM", "location":"HS Field"}
+, { "name":"Soccer Shootout", "time":"9:00 AM", "location":"HS Field"}
+, { "name":"Lip-Sync Contest", "time":"10:30 AM", "location":"HS Gym"}
+, { "name":"Balloon Competition", "time":"12:00 PM", "location":"HS Gym"}
+, { "name":"Dance-Off", "time":"10:00 AM", "location":"HS Gym"}
+, { "name":"Rubix Cubes", "time":"12:00 PM", "location":"HS Library"}
+, { "name":"Poetry Slam", "time":"11:00 AM", "location":"HS Library"}
+, { "name":"Human Chess", "time":"1:15 PM", "location":"HS Gym"}
+, { "name":"Egg Russain Roulette", "time":"11:30 AM", "location":"HS Gym"}
+, { "name":"Selfie Scavenger Hunt", "time":"All day", "location":"PRA HS"}
+, { "name":"Musical Chairs", "time":"9:00 AM", "location":"HS Commons"}
+, { "name":"Scrabble Competition", "time":"10:00 AM", "location":"HS Library"}
+, { "name":"Uno Competition", "time":"1:15 PM", "location":"HS Library"} ]
